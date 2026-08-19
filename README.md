@@ -212,5 +212,5 @@ london-crime-regression-analysis
 │   ├── [map data]
 │   └── london_boroughs
 │
-└── figures
+└── Figures
     └── [analysis visualisations]
