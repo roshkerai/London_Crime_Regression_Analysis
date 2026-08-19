@@ -147,7 +147,7 @@ The project includes several visualisations, including:
 - Model comparison
 - Choropleth maps of London boroughs
 
-Selected visualisations are available in the [`figures`](figures/) folder.
+Selected visualisations are available in the [`Figures`](Figures/) folder.
 
 ---
 
